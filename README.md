@@ -1,3 +1,3 @@
 # make-a-wish-scraper
-Scraper to get make a wish data for the Desjardins team
-update
+Scraper to get make a wish data for the Desjardins team on makeawish event
+update with scheduler
