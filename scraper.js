@@ -48,7 +48,7 @@ function convertJSONToHtmlTable(jsonData) {
 
   // Navigate to the page
   await page.goto(
-    "https://makeawishca.donordrive.com/index.cfm?fuseaction=donorDrive.search&filter=team&eventID=1539",
+    "https://makeawishca.donordrive.com/index.cfm?fuseaction=donorDrive.search&filter=team&eventID=1628",
     { waitUntil: "networkidle2" } // Ensure page is fully loaded
   );
 
